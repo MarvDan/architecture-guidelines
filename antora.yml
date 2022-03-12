@@ -1,1 +1,5 @@
-
+name: architecture-guidelines
+title: Architecture-guidelines
+version: '1.0'
+nav:
+- modules/ROOT/nav.adoc
